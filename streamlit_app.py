@@ -1,5 +1,5 @@
 import streamlit as st
 
 st.title("My Apps")
-if st.button("Geat")
+if st.button("Great")
 st.info("Hello")
